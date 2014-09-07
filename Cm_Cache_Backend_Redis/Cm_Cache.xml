@@ -1,0 +1,8 @@
+<config>
+   <modules>
+       <Cm_Cache>
+           <active>true</active>
+           <codePool>local</codePool>
+       </Cm_Cache>
+   </modules>
+</config>
